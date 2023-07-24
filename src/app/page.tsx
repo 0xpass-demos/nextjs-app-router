@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-              href="https://dashboard.0xpass.io/"
+              href="https://dashboard.0xpass.io/register"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
